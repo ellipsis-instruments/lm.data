@@ -1,0 +1,12 @@
+Package: lm.data
+Type: Package
+Title: Financial Data and Data Manipulation Tools
+Version: 0.1.0
+Author: lumiica
+Maintainer: lumiica <devel@lumiica.com>
+Description: Financial Data and Data Manipulation Tools
+    Multi-Asset. Single currency and multicurrency.
+License: For the exlusive use of lumiica employees and clients.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
